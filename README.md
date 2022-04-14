@@ -1,2 +1,2 @@
 # Svelte_Poll_Dancer
-Simple Poll app using Svelte 
+Simple Poll project using Svelte.
